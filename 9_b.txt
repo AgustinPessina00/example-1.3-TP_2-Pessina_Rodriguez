@@ -1,0 +1,7 @@
+Desventajas:
+-Menos claro el seguimiento del codigo, se hace menos legible.
+-Una mayor cantidad de instrucciones para hacer cada cosa. En C++ hay una mayor abstracción
+-Al trabajar con OOP se puede agrupar mejor los metodos asociados con, por ejemplo, las entradas digitales.
+
+Ventajas:
+-Se trabaja a más bajo nivel, dando más detalle de lo que estamos haciendo dentro del microcontrolador.
